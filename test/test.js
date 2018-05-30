@@ -5,7 +5,7 @@ var httpMocks = require('node-mocks-http');
 var expressEnd = require('express-end');
 var util = require('util');
 
-var middleware = require('../index.js')();
+var middleware = require('../index.js')({ cacheEngine: 'lru' });
 var generateCacheKey = require('../lib/generate-cache-key');
 var cache = require('../lib/cache-provider');
 

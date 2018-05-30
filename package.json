@@ -37,6 +37,7 @@
     "express-end": "0.0.8",
     "lru-cache": "^4.1.1",
     "md5": "^2.2.1",
-    "redis": "^2.8.0"
+    "redis": "^2.8.0",
+    "util-promisifyall": "^1.0.3"
   }
 }

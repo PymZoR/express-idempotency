@@ -421,6 +421,10 @@ unpipe@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/unpipe/-/unpipe-1.0.0.tgz#b2bf4ee8514aae6165b4817829d21b2ef49904ec"
 
+util-promisifyall@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/util-promisifyall/-/util-promisifyall-1.0.3.tgz#be953b36ae0041442f7c6086e6c2e8eb1cb20a85"
+
 util@^0.10.3:
   version "0.10.3"
   resolved "https://registry.yarnpkg.com/util/-/util-0.10.3.tgz#7afb1afe50805246489e3db7fe0ed379336ac0f9"
